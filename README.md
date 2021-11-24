@@ -1,7 +1,6 @@
-elasticsearch-codeigniter-library
-=================================
+# codeigniter-elasticsearch
 
-A small library to make search queries and create and add indexes.
+## A small library to make search queries and create and add indexes.
 
 
 ## How to index data with the library
